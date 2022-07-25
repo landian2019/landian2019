@@ -1,1 +1,2 @@
-[自述文件.md](https://github.com/landian2019/landian2019/files/9180206/default.md)
+注意事项：
+欢迎来到Lee网盘，本网盘仅供参考学习使用，请勿恶意下载和盗刷流量。网盘内置系统固件与引导，请自行寻找，寻找不到或者需要什么资料没有的，可以联系Lee：qq：927107637 vx: L1005-Lib 邮箱：caiji018@gmail.com 我都会尽可能的帮您寻找！谢谢！
